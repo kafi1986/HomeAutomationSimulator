@@ -1,2 +1,2 @@
 # HomeAutomationSimulator
- Simulate a home automation system design using Sparx Enterprise Architect
+ Simulate a home automation system designed using Sparx Enterprise Architect
